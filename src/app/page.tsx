@@ -275,8 +275,8 @@ export default function BikeAidLanding() {
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
-                  "Motor saya mogok di tengah jalan, dalam 25 menit mekanik sudah datang dan langsung bisa diperbaiki.
-                  Pelayanan sangat profesional!"
+                  &quot;Motor saya mogok di tengah jalan, dalam 25 menit mekanik sudah datang dan langsung bisa diperbaiki.
+                  Pelayanan sangat profesional!&quot;
                 </p>
               </CardContent>
             </Card>
@@ -301,8 +301,8 @@ export default function BikeAidLanding() {
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
-                  "Aplikasi yang sangat membantu! Harga transparan, bisa tracking mekanik, dan pelayanannya ramah.
-                  Recommended banget!"
+                  &quot;Aplikasi yang sangat membantu! Harga transparan, bisa tracking mekanik, dan pelayanannya ramah.
+                  Recommended banget!&quot;
                 </p>
               </CardContent>
             </Card>
@@ -327,8 +327,8 @@ export default function BikeAidLanding() {
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
-                  "Sebagai driver ojol, BikeAid sangat membantu saat motor bermasalah. Cepat, murah, dan bisa diandalkan
-                  24 jam!"
+                  &quot;Sebagai driver ojol, BikeAid sangat membantu saat motor bermasalah. Cepat, murah, dan bisa diandalkan
+                  24 jam!&quot;
                 </p>
               </CardContent>
             </Card>
